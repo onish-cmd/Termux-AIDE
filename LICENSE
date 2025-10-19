@@ -1,0 +1,26 @@
+Custom Source-Available License for Termux-AIDE.
+
+Copyright (c) 2025 Onish Sharma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+modify, and distribute the Software, subject to the following conditions:
+
+1. Advertising Requirement
+   The advertising components included in the Software (including but not
+   limited to ad display code, ad timing logic, and related integrations)
+   must not be removed, disabled, or altered in any distributed version
+   of the Software.
+
+2. Attribution
+   Any distribution of the Software, modified or unmodified, must include
+   clear attribution to the original author: [Your Name].
+
+3. License Compatibility
+   This license does not grant permission to relicense the Software under
+   any other license.
+
+4. Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
