@@ -33,7 +33,7 @@ jobs:
             
       - name: Build with Gradle
         run: |
-          cd android-app
+          cd Mobile-IDE
           chmod +x gradlew
           ./gradlew build
           
