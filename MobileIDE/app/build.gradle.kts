@@ -1,5 +1,8 @@
 // app/build.gradle.kts
-plugins { id("com.android.application"); kotlin("android") }
+plugins {
+    id("org.jetbrains.kotlin.android") version "2.0.0"
+    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0"
+}
 
 android {
   namespace = "com.osk.aide"
